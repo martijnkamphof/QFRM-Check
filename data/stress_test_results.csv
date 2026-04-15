@@ -1,0 +1,13 @@
+Scenario,Loss (%),Ratio to VaR_N,>VaR_N,>VaR_HS
+Equity −40%,28.0,13.02×,Yes,Yes
+Equity −20%,14.0,6.51×,Yes,Yes
+Equity +20%,-14.0,—,No,No
+Equity +40%,-28.0,—,No,No
+FX −20%,3.0,1.39×,Yes,Yes
+FX −10%,1.5,0.70×,No,No
+FX +10%,-1.5,—,No,No
+FX +20%,-3.0,—,No,No
+Rate +200bp,0.001,0.00×,No,No
+Rate −200bp,-0.001,—,No,No
+Rate +300bp,0.002,0.00×,No,No
+Rate −300bp,-0.002,—,No,No
